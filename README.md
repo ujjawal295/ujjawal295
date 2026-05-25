@@ -19,9 +19,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ujjawal1295&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=ujjawal295&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=ujjawal1295&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=ujjawal295&theme=tokyonight)
 
 ---
 
@@ -29,4 +29,4 @@
 
 [LinkedIn](https://linkedin.com)
 
-[Portfolio](https://github.com/ujjawal1295)
+[Portfolio](https://github.com/ujjawal295)
