@@ -1,174 +1,214 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Ujjawal%20Pandey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Learner&descAlignY=55"/>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0a3d62,100:1e3799&height=300&section=header&text=Ujjawal%20Pandey&fontSize=60&fontColor=00f5ff&animation=twinkling&fontAlignY=40&stroke=00f5ff&strokeWidth=2&desc=Full%20Stack%20Dev%20%7C%20AI%20Builder%20%7C%20Open%20Source%20Believer&descAlignY=60&descSize=18&descColor=a0c4ff"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;💻+C%2B%2B+%7C+React+%7C+Node.js;🔥+Building+Real+World+Projects;⚡+Always+Learning+New+Things"/>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=750&lines=🚀+Crafting+Full+Stack+Experiences;🤖+Engineering+AI-Powered+Solutions;⚡+C%2B%2B+%7C+React+%7C+Node.js+%7C+MongoDB;🧠+Solving+DSA+%26+Competitive+Programming;🔥+Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212750451-2c4f2c59-4d28-4d4d-b1f3-0c4c8c2f8d8f.gif" width="700"/>
+<br/>
+
+<!-- BADGES ROW -->
+<img src="https://img.shields.io/badge/🎓_Parul_University-CS_Student-0a3d62?style=for-the-badge&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/💻_Status-Open_to_Work-00b894?style=for-the-badge&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📍_India-Gujarat-e17055?style=for-the-badge&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ujjawal295&label=👁️+Profile+Views&color=00f5ff&style=for-the-badge&labelColor=0d0d0d"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+<!-- ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<img align="right" height="250" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; `whoami`
 
-🎓 Computer Science Student at **Parul University**  
-💻 Passionate about **Full Stack Development**  
-🤖 Exploring **Artificial Intelligence & Machine Learning**  
-🚀 Building impactful real-world projects  
-📚 Solving DSA problems consistently  
-🌱 Currently learning **MERN Stack & AI Integration**  
-⚡ Goal: Become a top software engineer & AI developer  
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<br><br>
+```bash
+$ cat ujjawal.json
+```
+```json
+{
+  "name"       : "Ujjawal Pandey",
+  "role"       : "Full Stack Developer",
+  "university" : "Parul University, Gujarat",
+  "degree"     : "B.Tech Computer Science",
+  "focus"      : ["MERN Stack", "AI/ML", "DSA", "Open Source"],
+  "currently"  : "Building AI-powered web apps 🚀",
+  "goal"       : "Top-tier Software & AI Engineer 🏆",
+  "hobbies"    : ["Competitive Programming", "Hackathons", "Tech Blogs"],
+  "available"  : true
+}
+```
+
+<br clear="right"/>
 
 ---
 
-# 🌐 Connect With Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp; Tech Arsenal
 
 <div align="center">
 
-<a href="https://linkedin.com/in/pandeyujjawal">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🖥️ Languages
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js&theme=dark&perline=5"/>
 
-<a href="mailto:ujjawalpandey073@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark&perline=5"/>
 
-<a href="https://github.com/ujjawal295">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark&perline=5"/>
+
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark&perline=5"/>
+
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=5"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C1C1E?style=for-the-badge&logo=chainlink&logoColor=00f5ff"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+
+## 📊 &nbsp; GitHub Intelligence Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ujjawal295&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0d0d0d&title_color=00f5ff&icon_color=00f5ff&text_color=a0c4ff&ring_color=1e3799&include_all_commits=true&count_private=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawal295&layout=donut&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0d0d0d&title_color=00f5ff&text_color=a0c4ff&langs_count=8" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ujjawal295&theme=tokyonight-duo&hide_border=true&border_radius=20&background=0D0D0D&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&sideLabels=A0C4FF&dates=6B7DB3" width="70%"/>
+
+</div>
+
+---
+
+## 📈 &nbsp; Contribution Heatmap
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjawal295&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=00f5ff&line=1e3799&point=00f5ff&area=true&area_color=1e3799" width="100%"/>
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+## 🏆 &nbsp; Trophy Cabinet
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ujjawal295&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+
+## ⚔️ &nbsp; Competitive Coding Battlefield
+
+<div align="center">
 
 <a href="https://leetcode.com/Ujjawal_Pandey">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116" height="35"/>
+</a>
+&nbsp;
+<a href="https://codeforces.com/">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="35"/>
+</a>
+&nbsp;
+<a href="https://hackerrank.com/">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35"/>
+</a>
+&nbsp;
+<a href="https://www.codechef.com/">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="35"/>
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-# ⚒️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nodejs,mongodb,git,github,vscode&theme=dark"/>
+<img src="https://leetcard.jacoblin.cool/Ujjawal_Pandey?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" width="60%"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🎯 &nbsp; What I'm Building Right Now
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ujjawal295&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawal295&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img src="https://streak-stats.demolab.com?user=ujjawal295&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjawal295&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ujjawal295&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 🐍 Snake Eating Contributions
-
-<div align="center">
-
-![snake gif](https://github.com/ujjawal295/ujjawal295/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# 🔥 Current Focus
-
-<div align="center">
-
-```yaml
-Learning:
-  - Full Stack Development
-  - Artificial Intelligence
-  - Backend Development
-  - DSA & Competitive Programming
-
-Working On:
-  - AI Projects
-  - MERN Stack Apps
-  - Open Source Contributions
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                        🚀  CURRENT MISSIONS                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🔨  Building  →  AI-powered MERN Stack Applications               ║
+║  📖  Learning  →  LangChain · RAG · Vector DBs · DevOps            ║
+║  ⚔️  Grinding  →  LeetCode DSA · System Design                     ║
+║  🤝  Open For  →  Internships · Collabs · Open Source              ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-# 💻 Coding Profiles
+## 🌐 &nbsp; Connect & Collaborate
 
 <div align="center">
 
-<a href="https://leetcode.com/Ujjawal_Pandey">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://linkedin.com/in/pandeyujjawal">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:ujjawalpandey073@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ujjawalpandey073-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ujjawal295">
+  <img src="https://img.shields.io/badge/GitHub-ujjawal295-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
 </a>
 
-<a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="https://hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+<!-- DYNAMIC QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 
 </div>
 
 ---
 
-# ✨ Random Dev Quote
+## 🐍 &nbsp; My Contributions, Being Devoured
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ujjawal295/ujjawal295/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ujjawal295/ujjawal295/blob/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://github.com/ujjawal295/ujjawal295/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 </div>
 
 ---
 
-# 👀 Visitor Counter
-
+<!-- FOOTER -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ujjawal295&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 “Code. Create. Innovate. Repeat.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3799,50:0a3d62,100:0d0d0d&height=150&section=footer&text=Let%27s%20Build%20Something%20Legendary%20Together%20🚀&fontSize=18&fontColor=00f5ff&animation=twinkling&fontAlignY=65"/>
 
 </div>
