@@ -138,7 +138,7 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/Ujjawal_Pandey">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
