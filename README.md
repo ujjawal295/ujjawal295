@@ -24,7 +24,7 @@
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/pandeyujjawal">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:yourgmail@gmail.com">
+<a href="mailto:ujjawalpandey073@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
